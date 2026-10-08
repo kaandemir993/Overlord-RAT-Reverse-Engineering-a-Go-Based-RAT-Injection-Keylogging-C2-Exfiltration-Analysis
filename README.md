@@ -161,7 +161,7 @@ Overlord RAT is a mature, multi-stage Go malware designed for credential theft, 
 
 The analyzed OverlordRat sample is available on MalwareBazaar for those who wish to conduct their own analysis:
 
-**[OverlordRat Sample on MalwareBazaar](https://bazaar.abuse.ch/sample/160f9349178e8169411d385e3ed0bc0cae494d302af225428bcdb10bc9eab84a/)
+[OverlordRat Sample on MalwareBazaar](https://bazaar.abuse.ch/sample/160f9349178e8169411d385e3ed0bc0cae494d302af225428bcdb10bc9eab84a/)
 
 **Tools Used:** Process Hacker, Binary Ninja,x64dbg
 
