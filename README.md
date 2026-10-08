@@ -51,7 +51,7 @@ A second string scan of the same Overlord RAT process,reveals a distinct set of 
 
 ### Visual Reference:
 
-![OverlordRat Process hacker strings](overlord_rat_processhacker_strings_part2.png)
+![OverlordRat Process hacker strings](images/overlord_rat_processhacker_strings_part2.png)
 
 
 ## 3.Binary Ninja – Keylogger Module & Agent Command Strings
@@ -81,7 +81,7 @@ The dumped binary connectstart.bin (extracted from the Process Hacker memory str
 
 ### Visual Reference:
 
-![OverlordRat Binary Ninja keylogger](overlord_rat_binaryninja_keylogger.png)
+![OverlordRat Binary Ninja keylogger](images/overlord_rat_binaryninja_keylogger.png)
 
 
 ## 4.Binary Ninja – Browser Injection & Process Manipulation Module
@@ -109,7 +109,7 @@ syscall.(**LazyDLL**).NewProc – dynamically resolves Windows APIs (LazyDLL) to
 
 ### Visual Reference:
 
-![OverlordRat Browserinject](overlord_rat_binaryninja_browserinject.png)
+![OverlordRat Browserinject](images/overlord_rat_binaryninja_browserinject.png)
 
 
 ## 5.Binary Ninja – Process Injection & Reflective DLL Loading
@@ -137,7 +137,7 @@ A further string view of connectstart.bin in Binary Ninja exposes the injection 
 
 ### Visual Reference:
 
-![OverlordRat injection](overlord_rat_binaryninja_injection.png)
+![OverlordRat injection](images/overlord_rat_binaryninja_injection.png)
 
 ## Conclusion
 
