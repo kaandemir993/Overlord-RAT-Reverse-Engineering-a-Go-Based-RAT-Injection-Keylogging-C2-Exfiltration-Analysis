@@ -157,6 +157,9 @@ The analysis of the Overlord RAT sample reveals a fully-featured, Go-based Remot
 
 Overlord RAT is a mature, multi-stage Go malware designed for credential theft, surveillance, and persistent C2 communication. Its use of LOLBins (AnyDesk), reflective DLL injection, direct syscalls, and dual-channel C2 makes it highly evasive against traditional AV and EDR solutions. The modular overlord-client/cmd/agent/ structure suggests an actively maintained framework with pluggable capabilities, positioning it as a serious threat in targeted attacks.
 
+
+If this malware analysis helped you or saved you time in your reverse engineering journey, feel free to support my research! You can buy me a coffee or become a sponsor through my GitHub Sponsors page. Any support helps me reverse engineer more advanced threats! 🛡️
+
 ### Sample Download
 
 The analyzed OverlordRat sample is available on MalwareBazaar for those who wish to conduct their own analysis:
